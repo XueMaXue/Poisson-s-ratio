@@ -1,4 +1,4 @@
-This repository contains the data supporting our paper “A Polar-displacement mechanism for negative Poisson's ratio in ferroelectric perovskites” (DOI: https://doi.org/10.1103/hh37-m1lt). These data were used to generate the figures presented in the main text and the supplemental material.
+This repository contains the data supporting our paper “Polar-displacement mechanism for negative Poisson's ratio in ferroelectric perovskites” (DOI: https://doi.org/10.1103/hh37-m1lt). These data were used to generate the figures presented in the main text and the supplemental material.
 
 
 # PR_PTO (Fig. 1 & Fig. S1 & Fig. S3 & Fig. S7 & Fig. S9):
@@ -13,26 +13,26 @@ Results are obtained using both direct strain–response calculations and the in
 
 Direct calculations with strain applied along the [100] direction for the tetragonal (P4mm) and cubic (Pm-3m) phases, respectively.
 
-Columns 5–9:
+Columns 1–5:
 
-5. Applied strain along [100]  
-6. Induced strain along [010]  
-7. Induced strain along [001]  
-8. In-plane Poisson's ratio  
-9. Out-of-plane Poisson's ratio
+1. Applied strain along [100]  
+2. Induced strain along [010]  
+3. Induced strain along [001]  
+4. In-plane Poisson's ratio  
+5. Out-of-plane Poisson's ratio
 
 ### PTO-P4mm-45deg.txt
 ### PTO-Pm-3m-45deg.txt
 
 Direct calculations with strain applied along the [110] direction.
 
-Columns 5–9:
+Columns 1–5:
 
-5. Applied strain along [110]  
-6. Induced strain along [1-10]  
-7. Induced strain along [001]  
-8. In-plane Poisson's ratio  
-9. Out-of-plane Poisson's ratio
+1. Applied strain along [110]  
+2. Induced strain along [1-10]  
+3. Induced strain along [001]  
+4. In-plane Poisson's ratio  
+5. Out-of-plane Poisson's ratio
 
 ### PTO-P4mm.txt
 ### PTO-Pm-3m.txt
@@ -72,13 +72,13 @@ BTO-I-43m-0deg.txt
 BTO-I4cm-0deg.txt   
 BTO-Pm-3m-0deg.txt   
 
-Columns 5–9:
+Columns 1–5:
 
-5. Applied strain along [100]  
-6. Induced strain along [010]  
-7. Induced strain along [001]  
-8. In-plane Poisson's ratio  
-9. Out-of-plane Poisson's ratio  
+1. Applied strain along [100]  
+2. Induced strain along [010]  
+3. Induced strain along [001]  
+4. In-plane Poisson's ratio  
+5. Out-of-plane Poisson's ratio  
 
 ### Files (45° loading direction, along [110])
 
@@ -87,13 +87,13 @@ BTO-I-43m-45deg.txt
 BTO-I4cm-45deg.txt   
 BTO-Pm-3m-45deg.txt   
 
-Columns 5–9:
+Columns 1–5:
 
-5. Applied strain along [110]  
-6. Induced strain along [1-10]  
-7. Induced strain along [001]  
-8. In-plane Poisson's ratio  
-9. Out-of-plane Poisson's ratio  
+1. Applied strain along [110]  
+2. Induced strain along [1-10]  
+3. Induced strain along [001]  
+4. In-plane Poisson's ratio  
+5. Out-of-plane Poisson's ratio  
 
 ## Indirect method (elastic-constant approach)
 
